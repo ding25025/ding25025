@@ -1,8 +1,16 @@
-### I'm Vicky Wu
+# ✨ I'm Vicky Wu ✨ From Taiwan 🇹🇼🇹🇼🇹🇼
 
-## Full-Stack Enginner
+## Full-Stack Enginner :computer: / Backpacker :earth_asia: / Buddist :pray:
 
-
+### Languages and Tools
+### Backend
+   - C#.NET
+   - Node.js
+   - Python
+### Frontend
+   - HTML/CSS/Javascript
+   - React.js
+  
 <!--
 **ding25025/ding25025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
