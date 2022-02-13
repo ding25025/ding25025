@@ -1,4 +1,7 @@
-### Hi there 👋
+### I'm Vicky Wu
+
+## Full-Stack Enginner
+
 
 <!--
 **ding25025/ding25025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
