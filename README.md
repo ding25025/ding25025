@@ -1,12 +1,13 @@
-# ✨ I'm Vicky Wu ✨ From Taiwan 🇹🇼🇹🇼🇹🇼
+## ✨Hi, I'm Vicky Wu ✨ From Taiwan 🇹🇼🇹🇼🇹🇼
 
-## Full-Stack Enginner :computer: / Backpacker :earth_asia: / Buddist :pray:
+### Full-Stack Enginner :computer: / Backpacker :earth_asia: / Buddist :pray:
 
 ### Languages and Tools
 ### Backend
    - C#
    - JavaScript
    - Python
+   - Nodejs
 ### Frontend
    - HTML/CSS/Javascript
    - React.js
