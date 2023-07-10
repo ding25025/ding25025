@@ -37,6 +37,11 @@
    - Azure
    - Heroku
    - AWS
+### Microsoft Certified
+   - [AZ900](https://www.credly.com/badges/7ac04e40-8b39-4275-9e36-594e85bdb86c/linked_in_profile)
+   - [AI900](https://www.credly.com/badges/043a0214-3844-4662-b22e-6cdb4fc90e18/linked_in_profile)
+   - [DP900](https://www.credly.com/badges/7ac04e40-8b39-4275-9e36-594e85bdb86c/linked_in_profile)
+   - [SC900](https://www.credly.com/badges/dd5b0f34-ba4c-470d-aef8-3e63e21362ed/linked_in_profile)
 <h1 align="center">Github Stats</h1>
 <div>
 <img width="40%"  src="https://github-readme-stats.vercel.app/api?username=ding25025&show_icons=true">
