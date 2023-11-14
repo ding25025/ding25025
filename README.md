@@ -1,6 +1,6 @@
 ## ✨Hi, I'm Vicky Wu ✨ From Taiwan 🇹🇼🇹🇼🇹🇼
 
-### Full-Stack Enginner :computer: / Backpacker :earth_asia: / Buddist :pray:
+### Backend Enginner :computer: / Backpacker :earth_asia: / Buddist :pray:
 
 ### Languages and Tools
 ### Backend
@@ -10,7 +10,6 @@
    - Nodejs
 ### Frontend
    - HTML/CSS/Javascript
-   - AngularJS
    - Reactjs
    
 ### Frameworks, Platforms and Libraries
