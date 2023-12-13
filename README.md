@@ -1,6 +1,6 @@
 ## ✨Hi, I'm Vicky Wu ✨ From Taiwan 🇹🇼🇹🇼🇹🇼
 
-### Backend Enginner :computer: / Backpacker :earth_asia: / Buddist :pray:
+### Backend Enginner / Backpacker / Buddhist
 
 ### Languages and Tools
 ### Backend
