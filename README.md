@@ -7,7 +7,7 @@
    - C#
    - JavaScript
    - Python
-   - Nodejs
+   - Node.js
 ### Frontend
    - HTML/CSS/Javascript
    - Reactjs
@@ -23,19 +23,14 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### SQL
-   - MS SQL
-   - My SQL
-   - MongoDB
+   - MSSQL/MySQL/MongoDB
 ### Version Control
-   - Git
-   - Gitlab
+   - Git/Gitlab
+### Cloud Server 
+   - Azure/Heroku/AWS
 ### Other Tool 
    - Postman
-   - Docker
-### Cloud Server 
-   - Azure
-   - Heroku
-   - AWS
+   - Docker 
 ### Microsoft Certified
    - [AZ900](https://www.credly.com/badges/de8f0ad6-1143-4999-b2d8-35d8bd538f29/linked_in_profile)
    - [AI900](https://www.credly.com/badges/043a0214-3844-4662-b22e-6cdb4fc90e18/linked_in_profile)
