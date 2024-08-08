@@ -1,13 +1,14 @@
 ## ✨Hi, I'm Vicky Wu ✨ From Taiwan 🇹🇼🇹🇼🇹🇼
 
-### Backend Enginner / Backpacker / Buddhist
+### Backend Enginner
 
 ### Languages and Tools
 ### Backend
-   - C#
-   - JavaScript
    - Python
    - Node.js
+   - C#
+   - JavaScript
+   
 ### Frontend
    - HTML/CSS/Javascript
    - Reactjs
