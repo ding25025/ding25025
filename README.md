@@ -1,4 +1,5 @@
-## ✨Hi, I'm Vicky Wu ✨ From Taiwan 🇹🇼🇹🇼🇹🇼
+## ✨Hi, I'm Vicky Wu ✨ 🇹🇼🇹🇼🇹🇼
+- Medium: [https://medium.com/@ding25025](https://medium.com/@ding25025)
 
 ### Backend Enginner
 
